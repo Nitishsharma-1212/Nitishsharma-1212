@@ -1,4 +1,9 @@
+### Hi 👋 My name is NITISH SHARMA,
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25FF00&vCenter=true&random=false&width=435&lines=A+Cyber+Security+Engineer;A+Penetration+Tester;A+Cloud+Architect;)](https://git.io/typing-svg)
+<!--
+**Nitishsharma-1212/Nitishsharma-1212/** is a ✨  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitishsharma1212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nitish62807sharma@gmail.com) 
 
