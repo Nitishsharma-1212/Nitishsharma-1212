@@ -15,8 +15,6 @@
 
 ## Tools & Technologies
 
-## Tools & Technologies
-
 Here are some of the tools and technologies I work with:
 
 - 🔧 [Metasploit](https://www.metasploit.com/): Platform for developing, testing, and executing exploit code against a remote machine.
