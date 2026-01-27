@@ -14,7 +14,7 @@
 
 <img align="right" width="280" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Cybersecurity Owl" />
 
-I am a **Cybersecurity** focused on securing applications, and enterprise environments. My expertise spans **Offensive Security**, **Defensive SOC Operations**, and **automation-driven security engineering**.
+I am a **Cybersecurity Enthusiast & Ethical Hacker ** focused on securing applications, and enterprise environments. My expertise spans **Offensive Security**, **Defensive SOC Operations**, and **automation-driven security engineering**.
 
 I specialize in identifying real-world attack vectors, hardening cloud-native systems.
 
