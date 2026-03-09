@@ -60,7 +60,7 @@ I specialize in identifying real-world attack vectors, hardening cloud-native sy
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nitishsharma-1212&theme=midnight-purple&hide_border=false" />
 </p>
 
 ---
